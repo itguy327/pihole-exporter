@@ -221,3 +221,6 @@ scrape_configs:
 [Link](https://github.com/SiM22/pihole-exporter-helm-chart)
 
 This is a simple Helm Chart to deploy the exporter in a kubernetes cluster.
+
+## Miscellaneous Setup Guides
+[Link](https://jarrodstech.net/how-to-pihole-exporter-install-with-prometheus-and-grafana-on-ubuntu-20-04/)
